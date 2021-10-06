@@ -38,7 +38,7 @@ function subtractModifier() {
   resultElement.innerText = resultString
 }
 
-  /* This function clears the modifier value and updates the display
+/*  /* This function clears the modifier value and updates the display
   */
 function zeroModifier() {
   playbackSpeed = 1; // set the global modifier to 0
